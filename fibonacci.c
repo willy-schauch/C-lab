@@ -5,7 +5,7 @@ int cur;
 
 void main ()
 {
-    old=1;
+    old=10;
     cur=1;
     printf("%d \n",old);
     while (cur<100)
